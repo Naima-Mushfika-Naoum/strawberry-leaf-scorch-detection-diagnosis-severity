@@ -58,7 +58,7 @@ The spot model records **Keras 2.15.0**, while the disease detector records **Ke
 
 ## Data availability
 
-The study used strawberry images from the publicly available [PlantifyDr dataset](https://www.kaggle.com/datasets/lavaman151/plantifydr-dataset). The curated and annotated study subsets are not included here. Access may be requested by emailing **naoum1496@gmail.com**, identifying the paper and the subset required. Requests are considered upon reasonable request.
+The study used strawberry images from the publicly available [PlantifyDr dataset](https://www.kaggle.com/datasets/lavaman151/plantifydr-dataset). The curated and annotated study subsets are not included here. Access may be requested by emailing **naoum1496@gmai.com**, identifying the paper and the subset required. Requests are considered upon reasonable request.
 
 Downloading PlantifyDr does not provide the exact curated subsets or study annotations. See [data availability](docs/DATA_AVAILABILITY.md) for details.
 
@@ -89,5 +89,6 @@ Notebook structure and Python syntax were checked; saved outputs were removed. M
 
 Existing issues involving alternative voting helpers, preprocessing, and evaluation are documented in [review notes](docs/REVIEW_NOTES.md). They have not been silently changed. Check those notes before claiming that a selected notebook variant reproduces the published experiment.
 
+## Reuse terms
 
-
+A software/model reuse license has not yet been selected. See [licensing status](docs/LICENSING.md). The citation request above does not itself grant reuse rights or establish a legal citation requirement.

@@ -1,0 +1,16 @@
+# Dependency inventory extracted from the supplied notebooks.
+# scikit-learn matches model metadata; other versions are unpinned.
+# Keras models record different major versions; this is not a tested lockfile.
+# Legacy Keras imports and HDF5 models may require the original environment.
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.6.1
+scikit-image
+opencv-python
+joblib
+h5py
+jupyterlab

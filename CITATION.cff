@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper below."
+title: "Semantic Analysis of Strawberry Leaf Scorch: Research Code"
+authors:
+  - family-names: Mushfika
+    given-names: Naima
+  - family-names: Jaha
+    given-names: Emad Sami
+preferred-citation:
+  type: article
+  title: "Semantic Analysis of Strawberry Leaf Scorch for Disease Detection, Symptom Diagnosis, and Severity Prediction"
+  authors:
+    - family-names: Mushfika
+      given-names: Naima
+    - family-names: Jaha
+      given-names: Emad Sami
+  journal: "International Journal of Computational Intelligence Systems"
+  volume: "19"
+  article-number: "368"
+  year: 2026
+  doi: "10.1007/s44196-026-01458-x"
